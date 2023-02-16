@@ -16,6 +16,6 @@ An app to request and donate food. This was the app which we have created for th
 * MongoDB
 
 ### Contributors
-[@arunkarthick782] (https://www.github.com/arunkarthick782)
+<a href="https://www.github.com/arunkarthick782">Arun Karthick M</a>
 [@balasuriya29] (https://www.github.com/balasuriya29)
 
